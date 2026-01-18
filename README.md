@@ -1,14 +1,14 @@
 ## Hi there 👋
-Bizness 🚀	Weapons 🌟
-📎 Resume/CV
-✉ devlopersabbir@gmail.com
-🎁 devlopersabbir.github.io
+🛠 My Skills & Technologies
+Frontend: React, Next.js (App Router), Tailwind CSS, Redux.
 
+Backend: Node.js, Express.js, NestJs, FastAPI.
 
-FacebookInstagram
-TwitterLinkedin	Top Langs
-⚙ Most uses of Technology
-React NextJs NestJs Express react-native electron postgressql react-redux docker FastAPI
+Database: MongoDB, PostgreSQL.
+
+Mobile & Desktop: React Native, Electron.
+
+DevOps & Tools: Docker, Git & GitHub.
 
 
 <!--
