@@ -7,6 +7,7 @@
 I am currently a student in the Science section (HSC 1st Year) at **BKSP Public School & College**. Alongside my studies, I am a passionate **MERN Stack Developer**. I love building scalable web applications and solving complex coding challenges using modern technologies.
 
 * 🚀 I am currently exploring **Next.js** and advanced frontend architectures.
+* * 🔭 I’m working on a **Tourism Website**.
 * 📚 I am a lifelong learner, constantly diving deeper into the **MERN stack** and **Next.js (App Router)**.
 * 🌱 My goal is to bridge the gap between academic studies and professional software engineering.
 
@@ -43,4 +44,4 @@ Node.js, Express.js, MongoDB, Firebase
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sa9079600@gmail.com)
 
 ---
-📧 **Email:** [sa9079600@gmail.com] |  **Location:** Dhaka, Bangladesh
+📧 **Email:** [sa9079600@gmail.com] |  **Phone:** 01977795336 |  **Location:** Dhaka, Bangladesh
