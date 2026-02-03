@@ -1,13 +1,27 @@
 # <p align="center">Tamim Iqbal  | MERN Stack Developer</p>
 
-![Banner](https://i.ibb.co/d452qvqd/Yellow-Black-Brush-Twitter-Header.png)
+<p align="center">
+  <img src="https://i.ibb.co/d452qvqd/Yellow-Black-Brush-Twitter-Header.png" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="mailto:sa9079600@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100087409363784">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://my-protfolio-sigma-weld.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+</p>
 
 ## 👋 Hi there! I'm Tamim Iqbal — a Student & MERN-Stack Web Developer
 
 I am currently a student in the Science section (HSC 1st Year) at **BKSP Public School & College**. Alongside my studies, I am a passionate **MERN Stack Developer**. I love building scalable web applications and solving complex coding challenges using modern technologies.
 
 * 🚀 I am currently exploring **Next.js** and advanced frontend architectures.
-* * 🔭 I’m working on a **Tourism Website**.
+* 🔭 I’m working on a **Tourism Website**.
 * 📚 I am a lifelong learner, constantly diving deeper into the **MERN stack** and **Next.js (App Router)**.
 * 🌱 My goal is to bridge the gap between academic studies and professional software engineering.
 
@@ -21,27 +35,81 @@ I am currently a student in the Science section (HSC 1st Year) at **BKSP Public 
 ---
 
 ## 🛠️ Tech Stack (My Skills)
+### 🧰 Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,vscode,github,figma,git,postman,vercel" />
+  </a>
+</p>
 
-### Frontend
-HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
-<br>
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+### 🛠️ Frontend Technologies
 
-### Backend & Database
-Node.js, Express.js, MongoDB, Firebase
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+</p>
 
----
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="firebase" />
+</p>
+
+
+### 📚 Currently Learning
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,py,docker,go,postgres" />
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbir019777&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Tamim%20Iqbal&fontSize=80&animation=fadeIn&fontColor=000000&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=65&descAlign=50" width="100%" alt="Tamim Iqbal" />
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+%26+Next.js+Expert;Creative+Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
+
+## 💬 Let's Connect
+
+<p align="left">
+📧 **Email:** <a href="mailto:sa9079600@gmail.com">sa9079600@gmail.com</a> <br>
+📘 **Facebook:** <a href="https://www.facebook.com/profile.php?id=100087409363784">https://facebook.com/itsfaisalhossen</a> <br>
+🌐 **Portfolio:** <a href="https://my-protfolio-sigma-weld.vercel.app">https://my-protfolio-sigma-weld.vercel.app</a>
 </p>
----
-
-## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sa9079600@gmail.com)
 
 ---
-📧 **Email:** [sa9079600@gmail.com] |  **Phone:** 01977795336 |  **Location:** Dhaka, Bangladesh
+**Phone:** 01977795336 |  **Location:** Dhaka, Bangladesh
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Views&color=0e75b6&style=flat-square" alt="views" />
+</p>
+
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="35" /> Support Me
+
+<img src="https://user-images.githubusercontent.com/60511826/133005953-29a3a1f3-233f-42a1-a75d-6c17d740f951.gif" width="400px" />
+
+<p>If you like my work, consider giving a ⭐ to my repositories or connecting with me.</p>
+
+<br />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Firecracker.png" width="30" /> Thank You for Visiting My Profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer&text=LET'S%20BUILD%20THE%20FUTURE%20🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+</div>
