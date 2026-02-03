@@ -36,11 +36,16 @@ I am currently a student in the Science section (HSC 1st Year) at **BKSP Public 
 ---
 
 ## 🛠️ Tech Stack (My Skills)
+
 ### 🧰 Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,vscode,github,figma,git,postman,vercel" />
-  </a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
 ### 🛠️ Frontend Technologies
@@ -67,10 +72,13 @@ I am currently a student in the Science section (HSC 1st Year) at **BKSP Public 
 ### 📚 Currently Learning
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,py,docker,go,postgres" />
-  </a>
-</p>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+</p>>
 
 
 ## 📊 GitHub Stats
