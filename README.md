@@ -47,7 +47,8 @@ I am currently a student in the Science section (HSC 1st Year) at **BKSP Public 
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
-### 🛠️ Frontend Technologies
+
+### 🛠️ **Frontend Technologies**
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
