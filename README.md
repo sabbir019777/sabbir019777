@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Tamim+Iqbal+|+MERN+Stack+Developer;Building+Scalable+Web+Applications;Problem+Solver+and+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Tamim+Iqbal+|+MERN+Stack+Developer;Building+Scalable+Web+Applications;Problem+Solver+and+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://i.ibb.co/PZ96GsHf/github-banner.png" alt="Banner" width="100%" />
@@ -78,7 +78,7 @@ I am currently a student in the Science section (HSC 1st Year) at **BKSP Public 
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
-</p>>
+</p>
 
 
 ## 📊 GitHub Stats
@@ -104,7 +104,7 @@ I am currently a student in the Science section (HSC 1st Year) at **BKSP Public 
 **Phone:** 01977795336 |  **Location:** Dhaka, Bangladesh
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Views&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=sabbir019777&label=Views&color=0e75b6&style=flat-square" alt="views" />
 </p>
 
 <div align="center">
