@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Tamim+Iqbal+|+MERN+Stack+Developer;Building+Scalable+Web+Applications;Problem+Solver+and+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 <p align="center">
-<img src="https://i.ibb.co/PZ96GsHf/github-banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/PZ96GsHf/github-banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
