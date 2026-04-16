@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/profile.php?id=100087409363784">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://my-protfolio-sigma-weld.vercel.app">
+<a href="https://tamim-porfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
 </a>
 </p>
